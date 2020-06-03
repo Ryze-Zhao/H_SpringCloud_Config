@@ -1,0 +1,43 @@
+# SpringCloud(H版)学习配套仓库SpringCloud Config
+
+#### 项目介绍
+主要是SpringCloud(H版)学习
+
+SpringCloud Config配置仓库
+
+
+#### 安装教程
+1. 根据git-url进行Clone
+2. 导入对应模块
+
+
+
+#### 使用说明
+H_SpringCloud_Config
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 参与贡献
+1. RyzeZhao
+
+
+
+
+
+#### 相关链接
+
+
+
+
